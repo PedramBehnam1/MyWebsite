@@ -16,9 +16,10 @@
   },
   "production": {
     "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "password": "p65p2RtwzvXpJS3Fi3k2IJW5",
+    "database": "MyWebsite",
+    "host": "billy.iran.liara.ir",
+    "port" : 33657,
     "dialect": "mysql"
   }
 }
